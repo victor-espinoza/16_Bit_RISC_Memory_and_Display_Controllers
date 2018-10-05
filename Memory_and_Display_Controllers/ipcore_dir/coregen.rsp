@@ -1,0 +1,2 @@
+SETPROJECT "H:/CECS 301/LABS/Lab 4_Memory_and_Display_Controllers/ipcore_dir/coregen.cgp"
+LAUNCHXCO "H:/CECS 301/LABS/Lab 4_Memory_and_Display_Controllers/ipcore_dir/ram_256x16.xco"

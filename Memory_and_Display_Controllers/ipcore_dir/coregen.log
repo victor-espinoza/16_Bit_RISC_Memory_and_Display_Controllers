@@ -1,0 +1,21 @@
+Project, 'coregen', initialised from file 'H:\CECS 301\LABS\Lab
+4_Memory_and_Display_Controllers\ipcore_dir\coregen.cgp'.
+Customizing IP...
+Release 12.2 - Xilinx CORE Generator IP GUI Launcher M.63c (nt)
+Copyright (c) 1995-2010 Xilinx, Inc.  All rights reserved.
+Initializing IP model...
+ERROR:coreutil - ERROR:sim - Unable to find C:\Users\Victor
+   Espinoza\Documents\Long Beach\Fall
+      2013\CECS 301\04 -- Lab Assignments, Etc\Ram .coe
+   Files\ram_256x16_lab4.coe
+      Coregen is looking for C:\Users\Victor Espinoza\Documents\Long Beach\Fall
+      2013\CECS 301\04 -- Lab Assignments, Etc\Ram .coe
+   Files\ram_256x16_lab4.coe
+   ERROR:sim - Cannot find radix with name: memory_initialization_radix
+   ERROR:sim - Cannot find radix with name: memory_initialization_radix
+   ERROR:sim - Cannot find radix with name: memory_initialization_radix
+   ERROR:sim - Failed to initialise IP model.
+An Error occurred during Customization.
+ERROR:sim - Failed to generate 'ram_256x16'.  ERROR: Customization failed.
+ERROR:sim:554 - Error found during execution of IP ram_256x16 (Block Memory
+   Generator version 4.2)
