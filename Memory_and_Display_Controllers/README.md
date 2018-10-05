@@ -9,5 +9,5 @@ Here is the schematic for this project:
 Dependencies:  
 This project was created using Xilinx ISE Project Navigator Version: 14.7.
 
-Project Verification:  
+Project Verification:   
 The verification of this project was done using the Nexys2 development board and making sure that each address and data values appeared correctly on the 7-segment displays.
