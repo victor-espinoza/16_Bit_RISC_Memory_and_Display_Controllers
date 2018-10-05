@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Fall 2013\CECS 301\Xilinx 1SE Project Navigator (NEXYS 2 Board)\Lab 4_Memory_and_Display_Controllers\top_level.ncd
+OUTFILE=C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Fall 2013\CECS 301\Xilinx 1SE Project Navigator (NEXYS 2 Board)\Lab 4_Memory_and_Display_Controllers\top_level.bit
+FAMILY=Spartan3E
+PART=xc3s500e-5fg320
+WORKINGDIR=C:\Users\Victor Espinoza\Documents\Long Beach\Victor's Projects To Upload\Fall 2013\CECS 301\Xilinx 1SE Project Navigator (NEXYS 2 Board)\Lab 4_Memory_and_Display_Controllers
+LICENSE=WebPack
+USER_INFO=174166057_174166058_210574515_042

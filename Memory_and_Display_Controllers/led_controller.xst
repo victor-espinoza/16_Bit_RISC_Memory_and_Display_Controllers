@@ -1,0 +1,5 @@
+set -tmpdir "F:/engineering/301/Lab 4- Memory & Display Controllers/Lab_4_Memory_and_Display_Controllers/xst/projnav.tmp"
+set -xsthdpdir "F:/engineering/301/Lab 4- Memory & Display Controllers/Lab_4_Memory_and_Display_Controllers/xst"
+elaborate
+-ifn led_controller.prj
+-ifmt mixed
