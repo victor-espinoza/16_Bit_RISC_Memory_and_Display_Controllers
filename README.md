@@ -1,4 +1,4 @@
-# Lab_4_Memory_and_Display_Controllers  
+# Lab_4_Memory_and_Display_Controllers 
 Project Overview:
 Implement Ram Memory and display desired memory values on Nexys2 development board.  
 This project consisted of implementing a sequential circuit that addresses all of the locations in a 256x16 RAM module. In this project, we display both the address inputs (to the RAM) and the data outputs (from the RAM) on the 7-segment displays on the Nexys2 development board.
